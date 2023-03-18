@@ -1,1 +1,3 @@
-# Pedro-Henrique
+- 🌱 Atualmente estou aprendendo ADS(Análise e desenvolvimento de sistemas);
+- 👯 Estou procurando colaborar em manutenções de microcomputadores;
+- 📫 Como entrar em contato comigo: Telefone; +55 (84) 99414-1382;
